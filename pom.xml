@@ -8,7 +8,7 @@
 		<version>2.2.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.tejnal.bankapp</groupId>
+	<groupId>com.shashank.bankapp</groupId>
 	<artifactId>spring-bank-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-bank-app</name>

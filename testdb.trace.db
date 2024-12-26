@@ -73,7 +73,7 @@ org.h2.message.DbException: The connection was not closed by the application and
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
 	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
-	at com.tejnal.bankapp.springbankapp.SpringBankAppApplication.main(SpringBankAppApplication.java:12)
+	at com.shashank.bankapp.springbankapp.SpringBankAppApplication.main(SpringBankAppApplication.java:12)
 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
 	at java.base/java.lang.reflect.Method.invoke(Method.java:577)
 	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
